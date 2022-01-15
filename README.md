@@ -1,5 +1,5 @@
 # Responsive Site
- Html5, Css3 ve JQery ile oluşturduğum Responsive Site Tasarımı
+ Html5, Css3 ile oluşturduğum Responsive Site Tasarımı
  
  Pc Görünümü
  
